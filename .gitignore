@@ -13,3 +13,4 @@ build/
 .project
 
 build-timestamp.txt
+/bin
